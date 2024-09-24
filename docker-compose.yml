@@ -1,0 +1,5 @@
+services:
+  web:
+    image: cvds-lab-03:latest
+    container_name: cvds-lab-03
+    build: .
